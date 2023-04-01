@@ -3,6 +3,8 @@ Rosario, Santa Fe, Argentina
 
 Soy un Fullstack Developer con más de 8 años de experiencia en el desarrollo de aplicaciones web y móviles. Me especializo en tecnologías como React, Node.js, MongoDB, Express y React Native.
 
+Trabajé en diversos proyectos de innovación donde pude explorar nuevos campos de implementación de las tecnologías de Javascript. Con un sólido historial de éxitos en diversas industrias como la ingeniería, la innovación, la medicina y el comercio electrónico. Capaz de aprender nuevas tecnologías rápidamente y ofrecer resultados excepcionales para sus clientes.
+
 ## Sobre mí
 
 👨‍💻 Trabajo como Fullstack Developer en Outtrip.co<br>
