@@ -10,7 +10,7 @@ Trabajé en diversos proyectos de innovación donde pude explorar nuevos campos 
 👨‍💻 Trabajo como Fullstack Developer en Outtrip.co<br>
 🎓 Estudio Ingeniería en Sistemas en la Universidad Tecnológica Nacional.<br>
 💬 Preguntame sobre: desarrollo de aplicaciones web y móviles, tecnologías de backend y frontend, sistemas IoT.<br>
-📫 Cómo contactarme: [LinkedIn](http://linkedin.com/in/ezequiel-barrales), [Instagram](https://instagram.com/ezequielbarrales)
+📫 Cómo contactarme: [LinkedIn](http://linkedin.com/in/ezequiel-barrales), [Instagram](https://instagram.com/ezequielbarrales), [Twitter](https://twitter.com/EzeBarrales)
 
 ## Tecnologías
 
@@ -45,3 +45,4 @@ Si quieres hablar de tecnología o necesitas ayuda en algún proyecto, ¡no dude
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-barrales/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ezequielbarrales/)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/EzeBarrales/)
