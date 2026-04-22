@@ -1,42 +1,47 @@
 # Hola, soy Ezequiel Barrales 👋
 Rosario, Santa Fe, Argentina
 
-Soy un Fullstack Developer con más de 8 años de experiencia en el desarrollo de aplicaciones web y móviles. Me especializo en tecnologías como React, Node.js, MongoDB, Express y React Native.
-
-Trabajé en diversos proyectos de innovación donde pude explorar nuevos campos de implementación de las tecnologías de Javascript. Con un sólido historial de éxitos en diversas industrias como la ingeniería, la innovación, la medicina y el comercio electrónico. Capaz de aprender nuevas tecnologías rápidamente y ofrecer resultados excepcionales para sus clientes.
+Soy CTO con más de 11 años de experiencia construyendo aplicaciones web y móviles. Trabajo principalmente con TypeScript de punta a punta: **Next.js** en el frontend, **NestJS** en el backend, bases **SQL** y **NoSQL**, y **AWS** como plataforma.
 
 ## Sobre mí
 
-👨‍💻 Trabajo como Fullstack Developer en Outtrip.co<br>
-🎓 Estudio Ingeniería en Sistemas en la Universidad Tecnológica Nacional.<br>
-💬 Preguntame sobre: desarrollo de aplicaciones web y móviles, tecnologías de backend y frontend, sistemas IoT.<br>
+👨‍💻 CTO en Outtrip.co<br>
+💬 Preguntame sobre: arquitectura de aplicaciones web y móviles, liderazgo técnico, Node.js/TypeScript, bases SQL y NoSQL, AWS.<br>
 📫 Cómo contactarme: [LinkedIn](http://linkedin.com/in/ezequiel-barrales), [Instagram](https://instagram.com/ezequielbarrales), [Twitter](https://twitter.com/EzeBarrales)
 
 ## Tecnologías
 
-Estas son algunas de las tecnologías con las que tengo experiencia:
-
+**Frontend**
 
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=232F3E)
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![NestJS](https://img.shields.io/badge/-NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+
+**Mobile**
+
 ![React Native](https://img.shields.io/badge/-React_Native-0088CC?style=for-the-badge&logo=react&logoColor=white)
-![SocketIO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 
-Aún trabajando en mejorar e implementar
+**Databases**
 
-![Nest.js](https://img.shields.io/badge/-Nest.js-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-
-También he trabajado anteriormente con tecnologías como
-
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**DevOps & Cloud**
+
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+**Realtime**
+
+![SocketIO](https://img.shields.io/badge/-Socket.IO-010101?style=for-the-badge&logo=socket.io&logoColor=white)
 
 ## Contactame
 
